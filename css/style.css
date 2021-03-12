@@ -548,7 +548,9 @@ div.about_up {
   display: inline-block;
   margin-right: 0.4em;
 }
-
+.av_prav{
+  font-size:10px;
+}
 .social-buttons li:last-child {
   margin: 0;
 }
